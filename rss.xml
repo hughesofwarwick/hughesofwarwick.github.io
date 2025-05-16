@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Hughes of Warwick</title>
+    <link>https://hughesofwarwick.github.io/</link>
+    <description>A selection of family videos</description>
+    <copyright>hughesofwarwick.github.io</copyright>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-gb</language>
+    <pubDate>Sun, 13 Oct 2024 16:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2024 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughesofwarwick.github.io/images/artwork.png</url>
+      <title>Hughes of Warwick</title>
+      <link>https://hughesofwarwick.github.io/</link>
+    </image>
+    <itunes:author>Chris Hughes</itunes:author>
+    <itunes:subtitle>Hughes of Warwick</itunes:subtitle>
+    <itunes:summary>A selection of family videos</itunes:summary>
+    <itunes:keywords>hughes, warwick, family, videos</itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://hughesofwarwick.github.io/images/artwork.png"/>
+    <itunes:owner>
+      <itunes:name>Chris Hughes</itunes:name>
+      <itunes:email>cajhughes@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Kids &amp; Family"/>
+    <item>
+      <title>School Pantomime Trailer</title>
+      <description>Trailer for the 2012 Warwick Prep School pantomime</description>
+      <pubDate>Thu, 29 Nov 2012 17:00:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://hughesofwarwick.github.io/videos/panto-2012-trailer.m4v" length="48389076" type="video/mp4"/>
+      <guid isPermaLink="false">panto-2012-trailer</guid>
+      <itunes:duration>00:03:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
